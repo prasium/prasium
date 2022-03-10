@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: [Facebook] (https://www.facebook.com/prasun.112/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am good at learning languages 😉
