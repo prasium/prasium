@@ -1,6 +1,10 @@
 
 <h1 align="center"> Hey there 👋, I'm Prasun Verma </h1>
 
+<div class="avatar">
+  <img src="https://user-images.githubusercontent.com/47386692/157812670-0af96c90-aa32-4c99-9945-792f4278e133.JPG" width=120 height=120 BORDER=50/>
+</div>
+
 <h3 align="center"> A guy focusing on strengthening his skillset </h3>
 
 <!--
