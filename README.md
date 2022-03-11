@@ -1,9 +1,7 @@
 
 <h1 align="center"> Hey there 👋, I'm Prasun Verma </h1>
 
-<div align="center" class="avatar">
-  <img src="https://user-images.githubusercontent.com/47386692/157812670-0af96c90-aa32-4c99-9945-792f4278e133.JPG" style= "width=240;height=240;border=50%"/>
-</div>
+  <img src="https://user-images.githubusercontent.com/47386692/157812670-0af96c90-aa32-4c99-9945-792f4278e133.JPG" style= "width:240px;height:240px;border:50%"/>
 
 <h3 align="center"> A guy focusing on strengthening his skillset </h3>
 
