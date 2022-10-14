@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React with Redux
 - 📫 How to reach me: <strong><a href="mailto:prasunverma12@gmail.com">prasunverma12@gmail.com</a></strong>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am good at learning languages 😉
