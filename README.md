@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey there 👋, I'm Prasun but you can call me Happy 😀 </h1>
+<h1 align="center"> Hey there 👋, Greetings from Prasun </h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/47386692/168473194-765ed31d-65a8-4ee0-b6e6-b70ea2f80db1.png" style= "width:300px;height:300px;border:50%; object-fit:contain"/>
 </div>
